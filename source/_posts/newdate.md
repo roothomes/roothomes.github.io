@@ -12,6 +12,7 @@ tags:
 #### 他啊
 ``` bash
 $ ps -ef|grep java
+$ kill -9 jxck
 ```
 
 
